@@ -1,0 +1,19 @@
+{
+  "name": "com.legustavinho.legendary-tools-find-in-files",
+  "displayName": "Legendary Tools - Find In Files",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "type": "library",
+  "keywords": [],
+  "category": "Extensions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeGustaVinho/find-in-files"
+  },
+  "dependencies": {
+  },
+  "author": {
+    "name": "LeGustaVinho",
+    "email": "not available"
+  }
+}
